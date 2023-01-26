@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/115544633/214836628-dea72d34-fdb9-4109-b849-a2feb2bd6586.jpg)
+![MasterHead](https://user-images.githubusercontent.com/115544633/214837610-79339bb3-68de-409a-8d9c-4d531547e631.png)
 <h1 align="center">¡Hola 👋, soy Gonzalo García</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
