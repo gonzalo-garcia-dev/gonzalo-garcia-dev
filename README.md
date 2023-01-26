@@ -1,16 +1,17 @@
-### Hi there 👋
+![MasterHead](https://drive.google.com/file/d/1lcsHXqWD3GC4AeBlS357IrXg4N_6Is4j/view?usp=sharing)
+<h1 align="center">¡Hola 👋, soy Gonzalo García</h1>
+<h3 align="center">Full-Stack Developer</h3>
 
-<!--
-**gonzalo-garcia-dev/gonzalo-garcia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><br><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonzalo-garcia-dev&show_icons=true&locale=en&layout=compact" alt="gonzalo-garcia-dev" /></p>
 
-Here are some ideas to get you started:
+- 🔭 Ahora mismo estoy trabajando en **crear mi portfolio**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 En este momento estoy aprendiendo **React Native**
+
+- 💬 Pregúntame sobre **React, CSS**
+
+- 🤝 Puedes conectar conmigo en [LinkedIn](https://www.linkedin.com/in/gonzalo-garcia-dev/)
+
+- 🌐 Podemos hablar en **Inglés**, y **Castellano**
+
+- 📫 Escríbeme a  **gonzalogarciacorrales@gmail.com**
