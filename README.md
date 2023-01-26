@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1lcsHXqWD3GC4AeBlS357IrXg4N_6Is4j/view?usp=sharing)
+![MasterHead](https://user-images.githubusercontent.com/115544633/214836628-dea72d34-fdb9-4109-b849-a2feb2bd6586.jpg)
 <h1 align="center">¡Hola 👋, soy Gonzalo García</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
