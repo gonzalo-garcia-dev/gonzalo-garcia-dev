@@ -14,7 +14,7 @@
 
 - 🌐 Podemos hablar en **Inglés**, y **Castellano**
 
-- 📝 [¡Este soy yo!] (https://drive.google.com/drive/folders/1un6LmIWyx7oc6f5MqY-x7TK29bc1lJ3k)
+- 📝 [¡Este soy yo!](https://drive.google.com/drive/folders/1un6LmIWyx7oc6f5MqY-x7TK29bc1lJ3k)
 
 - 📫 Escríbeme a  **gonzalogarciacorrales@gmail.com**
 
