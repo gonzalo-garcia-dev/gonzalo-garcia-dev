@@ -8,7 +8,7 @@
 
 - 🌱 En este momento estoy aprendiendo **React Native**
 
-- 💬 Pregúntame sobre **React, CSS**
+- 💬 Pregúntame sobre **React, HTML5, CSS o Javascript**
 
 - 🤝 Puedes conectar conmigo en [LinkedIn](https://www.linkedin.com/in/gonzalo-garcia-dev/)
 
