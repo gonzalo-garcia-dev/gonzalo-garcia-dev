@@ -4,7 +4,7 @@
 
 <p><br><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonzalo-garcia-dev&show_icons=true&locale=en&layout=compact" alt="gonzalo-garcia-dev" /></p>
 
-- 🔭 Ahora mismo estoy trabajando en **crear mi portfolio**
+- 🔭 Ahora mismo estoy trabajando en [TheOMS](https://www.linkedin.com/company/the-online-marketing-studio/about/)
 
 - 🌱 En este momento estoy aprendiendo **React Native**
 
