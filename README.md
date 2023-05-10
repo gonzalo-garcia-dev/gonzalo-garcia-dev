@@ -14,7 +14,7 @@
 
 - 🌐 Podemos hablar en **Inglés**, y **Castellano**
 
-- 📝 [¡Este soy yo!](https:gonzalo.pro)
+- 📝 [¡Este soy yo!]([https://wwwgonzalo.pro](https://www.gonzalo.pro/))
 
 - 📫 Escríbeme a  **contacto@gonzalo.pro**
 
