@@ -6,17 +6,17 @@
 
 - 🔭 Ahora mismo estoy trabajando en [TheOMS](https://www.linkedin.com/company/the-online-marketing-studio/about/)
 
-- 🌱 En este momento estoy aprendiendo **React Native**
+- 🌱 En este momento estoy mejorando en **React**
 
-- 💬 Pregúntame sobre **React, HTML5, CSS o Javascript**
+- 💬 Pregúntame sobre **HTML5, CSS o Javascript**
 
 - 🤝 Puedes conectar conmigo en [LinkedIn](https://www.linkedin.com/in/gonzalo-garcia-dev/)
 
 - 🌐 Podemos hablar en **Inglés**, y **Castellano**
 
-- 📝 [¡Este soy yo!](https://drive.google.com/file/d/1P-K9LprY-qPyNUdWhXFAS_Q8bTiVA6eV/view?usp=sharing)
+- 📝 [¡Este soy yo!](https:gonzalo.pro)
 
-- 📫 Escríbeme a  **gonzalogarciacorrales@gmail.com**
+- 📫 Escríbeme a  **contacto@gonzalo.pro**
 
 
 <h3 align="left">Lenguajes y herramientas:</h3>
